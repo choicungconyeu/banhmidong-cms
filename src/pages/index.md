@@ -1,9 +1,9 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: "\bĐÔNG's Bánh Mì - Buổi sáng ngon - sạch - giá hợp lý."
+image: /img/1e6d7bec99b562eb3ba4.jpg
+heading: "\bĐÔNG's Bánh Mì "
+subheading: Hân hạnh được phục vụ bữa ăn sáng ngon sạch với chi phí hợp lý.
 mainpitch:
   title: Why Kaldi
   description: >
