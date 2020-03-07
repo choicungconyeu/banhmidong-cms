@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: "\bĐÔNG's Bánh Mì - Buổi sáng ngon - sạch - giá hợp lý."
+title: Đông bánh mì
 image: /img/1e6d7bec99b562eb3ba4.jpg
 heading: "\bĐÔNG's Bánh Mì "
 subheading: Hân hạnh được phục vụ bữa ăn sáng ngon sạch với chi phí hợp lý.
