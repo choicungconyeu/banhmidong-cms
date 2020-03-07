@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: 'Gatsby + Netlify CMS Starter',
+    title: "ĐÔNG's Bánh Mì - Bánh mì Việt Nam ngon - sạch - giá hợp lí",
     description:
-      'This repo contains an example business website that is built with Gatsby, and Netlify CMS.It follows the JAMstack architecture by using Git as a single source of truth, and Netlify for continuous deployment, and CDN distribution.',
+      'Bánh mì Đông, ĐÔNG Bánh Mì, Bánh mì Việt Nam, Bánh mì ngon Cần Thơ',
   },
   plugins: [
     'gatsby-plugin-react-helmet',

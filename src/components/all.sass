@@ -10,8 +10,10 @@ $primary-invert: $kaldi-red-invert
 $body-color: #333
 $black: #2b2523
 
-.navbar .navbar-menu
-  box-shadow:none !important
+  
+#navMenu
+  height: 100px !important
+  background-color:#E61C1C !important
 
 .content .taglist
   list-style: none
@@ -71,7 +73,7 @@ $black: #2b2523
 .margin-top-0
   margin-top: 0 !important
 
-.navbar-item .icon
+.item .icon
   color: $primary
 // Override for use of svg's from https://simpleicons.org/
 .icon svg
@@ -83,6 +85,8 @@ $black: #2b2523
 footer.footer
   padding: 3rem 0rem 0rem
   background-color: transparent
+.navbar-item
+  color:#F0F49C !important
 
 //Menu overrides
 $menu-item-color: $white-ter
@@ -124,6 +128,21 @@ $menu-label-color: $white-ter
 
 
 @import "~bulma"
+
+
+.navbar
+  background-color:#E61C1C !important
+
+.navbar-hotline
+  color:#ffffff !important
+  font-weight: bold !important
+  font-size: 20px
+  margin-top: 30px
+  display:block
+
+.navbar-item img 
+  max-height: 2.75em !important
+
 
 
 // responsiveness
